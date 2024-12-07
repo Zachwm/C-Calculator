@@ -1,8 +1,10 @@
 # Overview
 
-A simple calculator app in the language C++
+**Project Title**: C++ Calculator
 
-I have never worked with C++ so this was just an excesize to get the language running and learn some of the extreme basics of the language
+**Project Description**: A simple calculator app in the language C++
+
+**Project Goals**: I have never worked with C++ so this was just an excesize to get the language running and learn some of the extreme basics of the language
 
 [Software Demo Video](https://youtu.be/NsKTg7oaH_s)
 
@@ -21,5 +23,5 @@ iostream
 
 # Future Work
 
-[ ] More complex opperations
-[ ] Create a ui
+* [ ] More complex opperations
+* [ ] Create a ui
